@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://arpitsrivastav.my.canva.site/)
+[![MasterHead](https://arpitsrivastav.my.canva.site/)](https://arpitsrivastav.my.canva.site/)
 <h1 align="center">Hi 👋, I'm Arpit Srivastav</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
