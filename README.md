@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4for7apy&label=Profile%20views&color=0e75b6&style=flat" alt="4for7apy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=4for7apy&label=Profile%20views&color=0e75b6&style=flat" alt="4for7apy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4for7apy" alt="4for7apy" /></a> </p>
 
