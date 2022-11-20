@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <h1 align="center">Hi 👋, I'm Arpit Srivastav</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -27,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4for7apy&show_icons=true&locale=en" alt="4for7apy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4for7apy&" alt="4for7apy" /></p>
+
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
