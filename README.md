@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, Computer Vision, Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **Graphic Designing Project**
+- 👯 I’m looking to collaborate on **Machine learning Projects**
 
 - 📫 How to reach me **arpit88407@gmail.com**
 
