@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 </div>
 
 # <h1 align="center">Hi, I'm Arpit Srivastav 👋</h1>
 
 <h3 align="center">🌟 Developer | ML Enthusiast | GenAI Explorer 🌟</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F759ED&width=435&lines=AI+is+the+future!;Machine+Learning+is+my+playground.;Exploring+Generative+AI.;Always+learning%2C+always+growing." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4for7apy&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
@@ -59,8 +63,4 @@
 🌟 [AI-Powered Chatbots](#)  
 🌟 [Generative AI for Artistic Creations](#)  
 
----
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="600" />
-</div>
